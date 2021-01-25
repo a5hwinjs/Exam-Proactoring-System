@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Holding Books mobile</folder>
+	<filename>WIN_20200915_18_46_08_Pro (2).jpg</filename>
+	<path>C:\Users\DELL\Downloads\Ashwin-20210113T045840Z-001\Ashwin\Holding Books mobile\WIN_20200915_18_46_08_Pro (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>19</ymin>
+			<xmax>1136</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mobile phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymin>622</ymin>
+			<xmax>756</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>

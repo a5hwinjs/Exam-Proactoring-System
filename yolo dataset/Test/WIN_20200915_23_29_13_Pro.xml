@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Looking Away</folder>
+	<filename>WIN_20200915_23_29_13_Pro.jpg</filename>
+	<path>C:\Users\DELL\Downloads\Sivakarthikeyan-20210113T050101Z-001\Sivakarthikeyan\Looking Away\WIN_20200915_23_29_13_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>56</ymin>
+			<xmax>535</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

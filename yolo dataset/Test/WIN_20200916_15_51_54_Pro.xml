@@ -1,0 +1,38 @@
+<annotation>
+	<folder>combined</folder>
+	<filename>WIN_20200916_15_51_54_Pro.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\combined\WIN_20200916_15_51_54_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>527</xmin>
+			<ymin>241</ymin>
+			<xmax>845</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mobile phone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>595</ymin>
+			<xmax>779</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>
